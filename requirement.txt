@@ -1,0 +1,3 @@
+codecs
+pandas
+html2text
