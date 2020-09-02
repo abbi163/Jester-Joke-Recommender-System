@@ -1,3 +1,8 @@
 codecs
 pandas
 html2text
+nltk
+numpy
+sqlite3
+seaborn
+

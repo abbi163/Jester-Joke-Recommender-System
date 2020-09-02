@@ -1,1 +1,0 @@
-### Jester Jokes Recommender System
