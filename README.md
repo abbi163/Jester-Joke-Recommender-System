@@ -55,12 +55,13 @@
     and based on like people rate alike. Secondly, we used Content Filtering method where we used topic
     modelling approach to create the topics of the 100 jokes!! 
 
-#### Dataset
+#### [Dataset](http://eigentaste.berkeley.edu/dataset/)
 --------------------------------------------------------------------------------------------
 
-    We have used 73,421 users rated jokes dataset provided by Jester Research project under the flagship of
-    UC Berkeley Laboratory for Automation Science and Engineering. The data contains 2 files as jokes in html
-    format and ratings in csv format.
+    We have dataset of 100 jokes and  73,421 user ratings of these 100 jokes provided by Jester Research
+    project under the flagship of UC Berkeley Laboratory for Automation Science and Engineering.
+    The data contains 100 html file of jokes and 3 csv data of user ratings. 
+    here is the link of dataset. (http://eigentaste.berkeley.edu/dataset/)
 
 #### Algorithm
 ------------------------------------------------------------------------------------------------------
